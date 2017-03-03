@@ -1,10 +1,7 @@
 # Site settings
-title: Corey's Site
-email: cmn7f@virgina.edu
+title: 
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-Hi. I am Corey. I work on the internet and innovation. I also dabble in web design, consulting small businesses, and nutrition.
-
-I currently work at Razorfish. Previously Accenture. Previously a baby.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chicken.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
